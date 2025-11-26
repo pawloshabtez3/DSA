@@ -9,5 +9,6 @@ class Solution(object):
         for w in words:
             result.append(w[::-1])
         return " ".join(result)
+        # The space between the " " is must because it is the space between the words
 
         
