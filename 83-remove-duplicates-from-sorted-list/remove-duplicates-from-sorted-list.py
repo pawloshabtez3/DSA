@@ -11,9 +11,10 @@ class Solution(object):
         """
         current = head
         while current and current.next:
-            if current.val == current.next.val:
+            if current.val == current.next.val: #Duplicate Found
                 current.next = current.next.next
             else:
+                #next node
                 current = current.next
         return head
             
