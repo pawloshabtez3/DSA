@@ -10,7 +10,7 @@ class Solution(object):
             if nums[i] != val:
                 nums[k] = nums[i]
                 k += 1
-        return k 
+        return k #elements != val
 
 
         
