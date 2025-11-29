@@ -10,4 +10,6 @@ class Solution(object):
         result = " ".join(words)
         return result
 
+        # * " "
+
         
