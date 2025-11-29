@@ -10,6 +10,6 @@ class Solution(object):
         result = " ".join(words)
         return result
 
-        # * " "
+        # * " " is must a space between teh ""
 
         
