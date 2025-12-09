@@ -11,3 +11,5 @@ class Solution:
                 stack.append(ch)
         
         return not stack
+
+        #it must do again
