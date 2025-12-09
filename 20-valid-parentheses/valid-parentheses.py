@@ -12,4 +12,4 @@ class Solution:
         
         return not stack
 
-        #It must do again because it is fully worked with python3 not familiar with me
+        #It must do again because it is fully worked with python3 not familiar with me.
