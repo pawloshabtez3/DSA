@@ -12,4 +12,4 @@ class Solution(object):
         dfs(root)
         return res
 
-#This is With recursive apprpch
+#This is With recursive apprpch and also you can work using stack
