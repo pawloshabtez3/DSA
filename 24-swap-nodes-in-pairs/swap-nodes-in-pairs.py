@@ -27,4 +27,4 @@ class Solution:
 
         return dummy.next
 
-        
+        #recursive approch swap the first two nodes and swap recursively the rest.
